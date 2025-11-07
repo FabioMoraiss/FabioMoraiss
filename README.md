@@ -44,11 +44,18 @@
 ### 🧩 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/FabioMoraiss/KeyRoom-django-version" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabioMoraiss&repo=KeyRoom-django-version&theme=tokyonight" />
-  </a>
+ 
   <a href="https://github.com/FabioMoraiss/to-do-list-spring" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabioMoraiss&repo=to-do-list-spring&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?repo=to-do-list-spring&username=FabioMoraiss&theme=tokyonight" />
+  </a>
+   <a href="https://github.com/FabioMoraiss/KeyRoom-django-version" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?repo=KeyRoom-django-version&username=FabioMoraiss&theme=tokyonight" />
+  </a>
+   <a href="https://github.com/FabioMoraiss/contact-list-spring" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabioMoraiss&theme=tokyonight&repo=contact-list-spring" />
+  </a>
+   <a href="https://github.com/FabioMoraiss/algoritimos-ordenacao" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabioMoraiss&repo=algoritimos-ordenacao&theme=tokyonight" />
   </a>
 </p>
 
