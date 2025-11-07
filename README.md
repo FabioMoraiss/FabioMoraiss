@@ -17,9 +17,9 @@
 ### 🌟 Sobre mim
 
 - 📅 **Idade:** 22 anos
-- ⛏️ **Ferramentas favoritas:** Java ☕ | Spring 🍃 | postgresSQL 🐘  
 - 🚀 **Objetivo:** evoluir no ecossistema **Spring Boot** e construir aplicações robustas e escaláveis.  
-- 🎯 **Atualmente focado em:** back-end, arquitetura de software e boas práticas de código. 
+- 🎯 **Atualmente focado em:** back-end, arquitetura de software e boas práticas de código.
+- 🎓 **Graduando em:** Análise e Desenvolvimento de Sistemas - Instituto Federal do Paraná
 - ⭐ **Jogo Favorito:**  Sekiro Shadows Die Twice
 ---
 
