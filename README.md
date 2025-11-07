@@ -1,13 +1,63 @@
-### hello! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=header"/>
+</p>
 
-- <b>main characteristics =></b>
-- **birthyear:** 2003
-- **hobby:** gaming, programing, studying 
-- **devepolerLevel:** trainee
+<h1 align="center">
+  👋 Olá, eu sou o <strong>Fábio Morais</strong>
+</h1>
+
+<h3 align="center">💻 Engenheiro de Software</h3>
+
+<p align="center">
+  🎮 Gamer • 💡 Estudante • 👨‍💻 Apaixonado por programação
+</p>
+
+---
+
+### 🌟 Sobre mim
+
+- 📅 **Idade:** 22 anos
+- ⛏️ **Ferramentas favoritas:** Java ☕ | Spring 🍃 | postgresSQL 🐘  
+- 🚀 **Objetivo:** evoluir no ecossistema **Spring Boot** e construir aplicações robustas e escaláveis.  
+- 🎯 **Atualmente focado em:** back-end, arquitetura de software e boas práticas de código. 
+- ⭐ **Jogo Favorito:**  Sekiro Shadows Die Twice
+---
+
+### 🧰 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgresql,git,typescript,angular" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/FabioMoraiss">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiomoraiss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMoraiss&layout=compact&langs_count=7&theme=dark"/>
-</div> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FabioMoraiss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMoraiss&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
+
+---
+
+### 🧩 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/FabioMoraiss" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabioMoraiss&repo=KeyRoom-django-version&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/FabioMoraiss" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabioMoraiss&repo=to-do-list-spring&theme=tokyonight" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java+Spring+Boot;Apaixonado+por+aprender+e+criar;Em+constante+evolucao;Em+constante+aprendizado" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=100&section=footer"/>
+</p>
